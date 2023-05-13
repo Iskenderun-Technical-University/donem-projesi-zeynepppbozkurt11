@@ -1,0 +1,11 @@
+C:\Users\90507\OneDrive\Masaüstü\halstok\halstok\obj\Debug\halstok.csproj.AssemblyReference.cache
+C:\Users\90507\OneDrive\Masaüstü\halstok\halstok\obj\Debug\halstok.csproj.SuggestedBindingRedirects.cache
+C:\Users\90507\OneDrive\Masaüstü\halstok\halstok\obj\Debug\halstok.Form1.resources
+C:\Users\90507\OneDrive\Masaüstü\halstok\halstok\obj\Debug\halstok.Properties.Resources.resources
+C:\Users\90507\OneDrive\Masaüstü\halstok\halstok\obj\Debug\halstok.csproj.GenerateResource.cache
+C:\Users\90507\OneDrive\Masaüstü\halstok\halstok\obj\Debug\halstok.csproj.CoreCompileInputs.cache
+C:\Users\90507\OneDrive\Masaüstü\halstok\halstok\bin\Debug\halstok.exe.config
+C:\Users\90507\OneDrive\Masaüstü\halstok\halstok\bin\Debug\halstok.exe
+C:\Users\90507\OneDrive\Masaüstü\halstok\halstok\bin\Debug\halstok.pdb
+C:\Users\90507\OneDrive\Masaüstü\halstok\halstok\obj\Debug\halstok.exe
+C:\Users\90507\OneDrive\Masaüstü\halstok\halstok\obj\Debug\halstok.pdb
